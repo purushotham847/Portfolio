@@ -1,4 +1,4 @@
-import React from 'react'
+
 
 function Comproject(props) {
 
@@ -6,8 +6,10 @@ function Comproject(props) {
 
   return (
   
-    <a target="_blank" href={props.demo} >
+
+    <a target="_blank" href={props.demo} rel="noreferrer" >
     <div className='p-5 m-3 bg-black  text-gray-300 md:m-20' >
+
          <h1 className='text-xl mb-4 '>{props.title}</h1>
         <img src={props.img} alt="" />
 

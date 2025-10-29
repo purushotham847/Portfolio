@@ -9,7 +9,9 @@ export default function Aboutsection() {
         <div className="w-full md:w-1/2 lg:w-1/2 xl:w-[55%]">
           <div>
             <p className="first-letter:text-2xl p-4 sm:text-lg xl:text-2xl text-md">
-              Hello there!👋 I'm Purushotham, a passionate <b>Software Developer</b> from
+         
+              Hello there!👋 
+              I am Purushotham, a passionate <b>Software Developer</b> from
               Bengaluru, India. I specialize in building <b>AI-powered</b> and
               <b> full-stack web applications</b> that blend creativity, functionality,
               and performance.
@@ -48,7 +50,7 @@ export default function Aboutsection() {
                 alt="Gmail"
               />  
             </a>
-            <a target="_blank" href="https://x.com/Purushotham_007">
+            <a target="_blank" href="https://x.com/Purushotham_007" rel="noreferrer">
               <img
                 className="w-8 h-8 md:w-10 md:h-10 hover:animate-bounce"
                 src="twitter.png"
@@ -57,7 +59,7 @@ export default function Aboutsection() {
             </a>
             <a
               target="_blank"
-              href="https://www.linkedin.com/in/purushotham-bm-63543822a/"
+              href="https://www.linkedin.com/in/purushotham-bm-63543822a/" rel="noreferrer"
             >
               <img
                 id="skillsection"

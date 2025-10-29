@@ -1,5 +1,5 @@
 
-import Comp from './comproject'
+import Comp from './Comproject'
 
 export default  function projects(){
 
