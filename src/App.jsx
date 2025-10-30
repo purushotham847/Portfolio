@@ -1,10 +1,10 @@
-import Navbar from './compounents/navbar'
-import Intro from './compounents/intro'
-import Aboutsection from './compounents/Aboutsection'
-import Footer from './compounents/footer'
-import Skills from './compounents/skills'
-import Projects from './compounents/projects'
-import Contact from './compounents/contact'
+import Navbar from './components/navbar'
+import Intro from './components/intro'
+import Aboutsection from './components/Aboutsection'
+import Footer from './components/footer'
+import Skills from './components/skills'
+import Projects from './components/projects'
+import Contact from './components/contact'
 
 
 

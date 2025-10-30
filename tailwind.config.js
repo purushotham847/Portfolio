@@ -9,7 +9,7 @@ export default {
       fontFamily:{
         
         Dancingscript:['Dancing Script'],
-        pattaya:['pattaya']
+        pattaya:['Pattaya']
       }
     },
   },
