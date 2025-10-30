@@ -30,14 +30,14 @@ export default function Navbar() {
             Skills
           </li>
           </a>
-          <a href="#contact">
-          <li className="hover:bg-black p-1 rounded-md hover:text-white w-full lg:w-auto ">
-            Contact
-          </li>
-          </a>
           <a href="#projects">
           <li className="hover:bg-black p-1 rounded-md hover:text-white w-full lg:auto">
            Projects
+          </li>
+          </a>
+          <a href="#contact">
+          <li className="hover:bg-black p-1 rounded-md hover:text-white w-full lg:w-auto ">
+            Contact
           </li>
           </a>
         </ul>

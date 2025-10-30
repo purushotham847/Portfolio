@@ -6,7 +6,7 @@ export default  function projects(){
 
    return(
 <>
-<div id='projects'>
+<div>
 
 <h1 className="font-bold  text-center   text-4xl text-black ">Projects</h1>
 <div className='grid grid-cols-1 lg:grid-cols-1 xl:grid-cols-2 2xl:grid-cols-3 '>

@@ -130,7 +130,7 @@ export default function Skills() {
               <div className="flex flex-row justify-center p-3 items-center gap-2 border-black border-2 w-auto h-auto rounded-es-2xl">
                 <p className="text-lg xl:text-xl">FAISS</p>
               </div>
-              <div className="flex flex-row justify-center p-3 items-center gap-2 border-black border-2 w-auto h-auto rounded-se-2xl">
+              <div id='projects' className="flex flex-row justify-center p-3 items-center gap-2 border-black border-2 w-auto h-auto rounded-se-2xl">
                 <p className="text-lg xl:text-xl">Tavily</p>
               </div>
             </div>
