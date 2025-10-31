@@ -15,7 +15,7 @@ function Comproject(props) {
 
     <p className='text-justify my-3'>{props.des}</p>
            <div className='flow-root w-full'>
-            <button  className="float-right border-2 duration-300 bg-black border-gray-400 p-1 rounded-lg px-2 hover:bg-white hover:text-black hover:border-black" ><a href={props.code} > Code  </a></button>
+            <button  className="float-right border-2 duration-300 bg-black border-gray-400 p-1 rounded-lg px-2 hover:bg-white hover:text-black hover:border-black" ><a target="_blank" href={props.code} > Code  </a></button>
 
            </div>
     </div>
